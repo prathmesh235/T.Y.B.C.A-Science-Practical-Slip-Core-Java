@@ -1,2 +1,2 @@
 # T.Y.B.C.A-Science-Practical-Slip-Core-Java
-# 1 2 3 4 6 7 8 9 10 11 13 14 16 18 25
+# 1 2 4 5 7 8 9 11 14 15 16 21 24 25
